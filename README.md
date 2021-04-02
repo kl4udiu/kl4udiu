@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kl4udiu
-- 👀 I’m interested in a lot of things for which I do not always have time, but I am here as I am practicing my programming.
+- 👀 I’m interested in a lot of things for which I do not always have time, but I am here as I am practicing my programming skills.
 - 🌱 I’m currently learning Python more in depth and Data Science related skills.
 
 
